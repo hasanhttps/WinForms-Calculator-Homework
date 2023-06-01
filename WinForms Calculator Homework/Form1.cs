@@ -135,7 +135,8 @@
         private void numButton(object? sender, MouseEventArgs e) {
             if (expression.Text == "0") {
                 expression.Text = "";
-            } expression.Text = expression.Text + ((CircularButton)sender!).Text;
+            } if (operation != "" && firstnum == expression.Text) expression.Text = "";
+            expression.Text += ((CircularButton)sender!).Text;
             cbac.Text = "C";
         }
 
@@ -156,15 +157,12 @@
                 secondnum = expression.Text;
                 expression.Text = "";
                 dynamic result = 0;
-
                 cbcurrentOperation.ForeColor = Color.White;
                 cbcurrentOperation.BackColor = ColorTranslator.FromHtml("#FF9500");
-
                 if (operation == "+") result = Convert.ToDouble(firstnum) + Convert.ToDouble(secondnum);
                 else if (operation == "-") result = Convert.ToDouble(firstnum) - Convert.ToDouble(secondnum);
                 else if (operation == "x") result = Convert.ToDouble(firstnum) * Convert.ToDouble(secondnum);
                 else if (operation == "÷") result = Convert.ToDouble(firstnum) / Convert.ToDouble(secondnum);
-
                 expression.Text = result.ToString();
             }
             catch (Exception ex) {
@@ -177,6 +175,7 @@
             expression.Text = "0";
             firstnum = "";
             secondnum = "";
+            operation = "";
             cbcurrentOperation.ForeColor = Color.White;
             cbcurrentOperation.BackColor = ColorTranslator.FromHtml("#FF9500");
         }
