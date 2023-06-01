@@ -1,0 +1,17 @@
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\bin\Debug\net6.0-windows\WinForms Calculator Homework.exe
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\bin\Debug\net6.0-windows\WinForms Calculator Homework.deps.json
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\bin\Debug\net6.0-windows\WinForms Calculator Homework.runtimeconfig.json
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\bin\Debug\net6.0-windows\WinForms Calculator Homework.dll
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\bin\Debug\net6.0-windows\WinForms Calculator Homework.pdb
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\WinForms Calculator Homework.csproj.AssemblyReference.cache
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\CalculatorApp.Form1.resources
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\WinForms Calculator Homework.csproj.GenerateResource.cache
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\WinForms Calculator Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\WinForms Calculator Homework.AssemblyInfoInputs.cache
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\WinForms Calculator Homework.AssemblyInfo.cs
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\WinForms Calculator Homework.csproj.CoreCompileInputs.cache
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\WinForms Calculator Homework.dll
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\refint\WinForms Calculator Homework.dll
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\WinForms Calculator Homework.pdb
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\WinForms Calculator Homework.genruntimeconfig.cache
+C:\Users\hasan\source\repos\WinForms Calculator Homework\WinForms Calculator Homework\obj\Debug\net6.0-windows\ref\WinForms Calculator Homework.dll
